@@ -1,3 +1,6 @@
 /node_modules
 .env
 .venv
+package-lock.json
+bun-lockb
+/uploads
